@@ -24,4 +24,6 @@ int main(){
         printf("The Given Number is zero\n");
     }
     return 0;
+
 }
+
