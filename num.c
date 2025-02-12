@@ -24,10 +24,4 @@ int main(){
         printf("The Given Number is zero\n");
     }
     return 0;
-<<<<<<< HEAD
-
 }
-
-=======
-}
->>>>>>> 6c9f4a5be801a157290ce203bbf6142f43a0a39e
